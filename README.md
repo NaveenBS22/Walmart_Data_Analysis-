@@ -69,7 +69,8 @@ This analysis aims to uncover in-depth insights into sales, profitability, and p
         •	Actionable recommendations for stakeholders.
     
 ## Dashboard
-       https://github.com/NaveenBS22/Walmart_Data_Analysis-/blob/main/Walmart_Dashboard.png?raw=true
+       ![Walmart_Dashboard](https://github.com/user-attachments/assets/2175c224-db60-42ef-a720-552888015e42)
+
 
 ## Project Insight 
 **Top-Selling Categories:** Chairs, Phones, and Tables contributed ₹101,781, ₹98,684, and ₹84,755 respectively, accounting for over 30% of total sales.
