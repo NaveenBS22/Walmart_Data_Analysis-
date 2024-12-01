@@ -88,7 +88,7 @@ This analysis aims to uncover in-depth insights into sales, profitability, and p
 
 
 ## Conclusion 
-     This analysis explores Walmart's sales, profits, and operations, highlighting top-performing products like Chairs and Phones, with high-margin items such as Envelopes offering strong profitability. California and Washington lead in sales, while underperforming regions need attention. Shipping delays, particularly during peak periods, point to operational inefficiencies. Recommendations include focusing on high-margin products, optimizing inventory, and improving logistics to enhance profitability and growth.
+This analysis explores Walmart's sales, profits, and operations, highlighting top-performing products like Chairs and Phones, with high-margin items such as Envelopes offering strong profitability. California and Washington lead in sales, while underperforming regions need attention. Shipping delays, particularly during peak periods, point to operational inefficiencies. Recommendations include focusing on high-margin products, optimizing inventory, and improving logistics to enhance profitability and growth.
 
 
 
