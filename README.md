@@ -68,10 +68,10 @@ This analysis aims to uncover in-depth insights into sales, profitability, and p
         •	Key insights and visualizations.
         •	Actionable recommendations for stakeholders.
     
-    ## Dashboard
+## Dashboard
        https://github.com/NaveenBS22/Walmart_Data_Analysis-/blob/main/Walmart_Dashboard.png?raw=true
 
-    ## Project Insight 
+## Project Insight 
       - **Top-Selling Categories:** Chairs, Phones, and Tables contributed ₹101,781, ₹98,684, and ₹84,755 respectively, accounting for over 30% of total sales.
       - **Regional Sales:** California and Washington regions drove 84% of total profits, with California contributing 58% alone. In contrast, regions like Colorado, Arizona, and Oregon 
                         showed negative profits, indicating the need for focused interventions.
