@@ -69,7 +69,8 @@ This analysis aims to uncover in-depth insights into sales, profitability, and p
         •	Actionable recommendations for stakeholders.
     
 ## Dashboard
-       ![Walmart_Dashboard](https://github.com/user-attachments/assets/2175c224-db60-42ef-a720-552888015e42)
+      
+![Walmart_Dashboard](https://github.com/user-attachments/assets/dd87ef9c-5fcc-494e-aa84-c6281ec3d802)
 
 
 ## Project Insight 
