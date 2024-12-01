@@ -72,19 +72,19 @@ This analysis aims to uncover in-depth insights into sales, profitability, and p
        https://github.com/NaveenBS22/Walmart_Data_Analysis-/blob/main/Walmart_Dashboard.png?raw=true
 
 ## Project Insight 
-Top-Selling Categories: Chairs, Phones, and Tables contributed ₹101,781, ₹98,684, and ₹84,755 respectively, accounting for over 30% of total sales.
+**Top-Selling Categories:** Chairs, Phones, and Tables contributed ₹101,781, ₹98,684, and ₹84,755 respectively, accounting for over 30% of total sales.
 
-Regional Sales: California and Washington regions drove 84% of total profits, with California contributing 58% alone. In contrast, regions like Colorado, Arizona, and Oregon showed negative profits, indicating the need for focused interventions.
+**Regional Sales:** California and Washington regions drove 84% of total profits, with California contributing 58% alone. In contrast, regions like Colorado, Arizona, and Oregon showed negative profits, indicating the need for focused interventions.
 
-High-Margin Products: Envelopes (46%), Paper (45%), and Labels (45%) showed exceptional profitability, highlighting opportunities for targeted promotions.
+**High-Margin Products:** Envelopes (46%), Paper (45%), and Labels (45%) showed exceptional profitability, highlighting opportunities for targeted promotions.
 
-Loss-Making Products: Machines (-1%) and Bookcases (-5%) represent cost-heavy categories that may require sourcing or pricing adjustments.
+**Loss-Making Products:** Machines (-1%) and Bookcases (-5%) represent cost-heavy categories that may require sourcing or pricing adjustments.
 
-Shipping Delays: The average shipping time was 4 days but extended to 5–7 days during peak holiday periods due to high order volumes and supply chain constraints.
+**Shipping Delays:** The average shipping time was 4 days but extended to 5–7 days during peak holiday periods due to high order volumes and supply chain constraints.
 
-Seasonal Peaks: November and December saw the highest sales, aligning with holiday shopping trends, while March and September also showed above-average performance.
+**Seasonal Peaks:** November and December saw the highest sales, aligning with holiday shopping trends, while March and September also showed above-average performance.
 
-Quantity vs. Revenue: Weak positive correlation (0.26) suggests revenue isn’t solely dependent on volume, as high-value products like Copiers (₹565/unit) outperformed high-quantity items like Binders (₹15/unit).
+**Quantity vs. Revenue:** Weak positive correlation (0.26) suggests revenue isn’t solely dependent on volume, as high-value products like Copiers (₹565/unit) outperformed high-quantity items like Binders (₹15/unit).
 
 
 ## Conclusion 
